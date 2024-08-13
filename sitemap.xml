@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tapankarnik.me/portfolio/portfolio/</loc>
+    <lastmod>2024-07-23T19:13:35+01:00</lastmod>
+  </url><url>
+    <loc>https://tapankarnik.me/portfolio/</loc>
+    <lastmod>2024-07-23T19:13:35+01:00</lastmod>
+  </url><url>
+    <loc>https://tapankarnik.me/</loc>
+    <lastmod>2024-07-23T19:13:35+01:00</lastmod>
+  </url><url>
+    <loc>https://tapankarnik.me/archives/</loc>
+  </url><url>
     <loc>https://tapankarnik.me/categories/</loc>
   </url><url>
     <loc>https://tapankarnik.me/tags/</loc>
-  </url><url>
-    <loc>https://tapankarnik.me/</loc>
   </url>
 </urlset>
